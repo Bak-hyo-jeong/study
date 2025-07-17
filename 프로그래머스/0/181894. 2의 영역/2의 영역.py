@@ -11,4 +11,4 @@ def solution(arr):
     else:
         return [-1]
     
-    return answer if answer else [-1]
+    return answer
